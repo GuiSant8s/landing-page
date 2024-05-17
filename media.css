@@ -9,7 +9,7 @@
     }
 
     h2{
-        font-size: 38px
+        font-size: 38px;
     }
 
     form{
@@ -17,7 +17,7 @@
         width: 100%;
     }
 
-    imput{
+    input{
         align-self: center;
     }
 
