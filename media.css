@@ -7,7 +7,7 @@
 }
 
 
-@media(max-width: 1180px){
+@media(max-width: 900px){
 
     header{
         flex-direction: column;
@@ -18,7 +18,7 @@
     }
 
     h2{
-        font-size: 38px;
+        font-size: 30px;
     }
 
     form{
@@ -37,5 +37,16 @@
     ul{
         text-align: center;
         justify-content: center;
+    }
+}
+
+@media (min-width: 900px) and (max-width: 1080px) {
+    
+    h1 {
+        font-size: 20px;
+    }
+    
+    h2 {
+        font-size: 30px;
     }
 }
